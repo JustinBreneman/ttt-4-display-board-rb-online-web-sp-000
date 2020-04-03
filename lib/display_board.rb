@@ -2,5 +2,5 @@
 # out the current state.
 rows = ["   |   |   "]
 
-def display_board(_)
+def display_board(rows)
 end
